@@ -24,9 +24,12 @@ Tools & Technologies
 - DAX – Calculated Columns and Measures
 - Data Visualization and Exploratory Data Analysis
 
+Data
+Data was obtained from kaggle datasets.
+
 Data Cleaning & Transformation
 
-Data preparation was performed using Power Query in Excel and calculated columns in Power BI.
+Data preparation was performed using Excel and  Power BI.
 
 Key activities included:
 
@@ -38,7 +41,7 @@ Key activities included:
 
 cards
 
-The dashboard includes the following performance indicators:
+The dashboard includes the following:
 
 - Total Flights
 - Total Routes
