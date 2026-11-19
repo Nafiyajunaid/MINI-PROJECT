@@ -17,12 +17,12 @@ Project Objectives
 - Identify major reasons contributing to flight delays.
 - Explore the relationship between flight distance and delay duration.
 
-Tools & Technologies
+Tools 
 
 - Microsoft Power BI
 - Power Query – Data Cleaning and Transformation
 - DAX – Calculated Columns and Measures
-- Data Visualization and Exploratory Data Analysis
+- Data Visualization
 
 Data
 Data was obtained from kaggle datasets.
